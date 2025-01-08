@@ -17,7 +17,6 @@ function getShippingCost(country) {
     default:
         return "Sorry, there is no delivery to your country";
     }
-
 }
 
 
